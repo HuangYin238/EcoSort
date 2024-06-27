@@ -1,0 +1,5 @@
+1. Cài đặt Godot Engine
+Link cài đặt: https://godotengine.org/download/windows/
+2. Mở file
+- Mở folder src
+- Chạy file có tên "project"

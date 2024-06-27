@@ -1,0 +1,14 @@
+1. Chạy từ file "project"
+- Mở file "project"
+- Ở góc phải  phía trên màn hình, chọn nút RUN PROJECT (F5) hoặc nhấn F5 để chạy
+- Nếu chương trình xuất hiện lỗi, hãy nhấn F12 để bỏ qua và tiếp tục
+Chương trình có thể chạy bình thường khi có lỗi (lỗi không đáng kể)
+
+2. Chạy từ file exe (application)
+- Vào thư mục "export"
+- Chạy tệp tin có tên "Eco Sort"
+
+3. Chạy từ web itch.io
+- Mở link: https://huangyin238.itch.io/
+- Chọn trò chơi có tên "Eco Sort - Vietnamese Version"
+- Chọn nút "Run game"
